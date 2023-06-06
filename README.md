@@ -1,6 +1,6 @@
 # windows resources collections
 ## image download
-[iso download(offical)](https://www.microsoft.com/zh-cn/software-download/)
+[iso download(offical)](https://www.microsoft.com/zh-cn/software-download/)  
 [msdn itellyou](https://msdn.itellyou.cn/)
 
 ## windows usage
